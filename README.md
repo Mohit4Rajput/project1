@@ -1,4 +1,4 @@
-# project1
+# SPACE INVADER GAME - INTRODUCTION TO PYTHON PROGGRAMMING - COURSE PROJECT 
 #inspired from space invader
 
 
